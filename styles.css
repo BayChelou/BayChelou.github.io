@@ -1,0 +1,10 @@
+body {
+    background: gainsboro;
+}
+
+hr {
+    height: 2px;
+    background-color: rgb(37, 56, 226);
+    border: 1px solid rgb(172, 138, 164);
+}
+
